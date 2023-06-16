@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+div{
+    
+	display:inline-block;
+    width:12rem;
+}
+img{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+h1,p{
+	text-align:center;
+}
+.desc{
+	display:flex
+}
+
+button{
+	display:block;
+	margin:auto;
+	border:none;
+	border-radius:9px;
+	height:30px;
+	background-color:red;
+	color:white;
+}
